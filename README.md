@@ -1,24 +1,24 @@
-# Repository for the Classification ML lab
+# Repository for the Clustering ML lab
 
-Building a No-Code Classification Model with Azure Automated ML
+Identifying Weather Patterns using Azure ML and Clustering
 
 ## Overview
-Learn to create a machine-learning model that can accurately predict the change for rain for the next day based on historical weather data using the classification technique. 
+Learn to create a machine-learning model that can accurately predict the weather patterns based on historical weather data using the clustering technique. 
 
 ## Learning Objectives
 - Identify common machine learning techniques.
-- Describe Azure Machine Learning capabilities.
-- Learn how to use Azure Automated ML to create a classification model.
-- Evaluate the model’s performance using key metrics.
+- Describe core machine learning concepts.
+- Import and preprocess a weather dataset in Azure Machine Learning.
+- Create a clustering model using Azure Machine Learning Designer.
 
 ## What will you learn?
-- Classification models in Azure ML.
-- Creating an Automated ML experiment. 
+- Clustering models in Azure ML.
+- Creating a Designer Pipeline. 
 - Azure Machine Learning and Studio.
 
 ## Prerequisites
-- Basic knowledge of machine learning concepts and classification.
-- Familiarity with the Azure portal interface.
+- Basic understanding of Azure Machine Learning and its designer.
+- Familiarity with clustering techniques in machine learning.
 
 ## Learn More & Enrol
-https://www.udemy.com/labs/4070/overview
+https://www.udemy.com/labs/4072/overview
