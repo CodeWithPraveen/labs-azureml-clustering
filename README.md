@@ -21,4 +21,4 @@ Learn to create a machine-learning model that can accurately predict the weather
 - Familiarity with clustering techniques in machine learning.
 
 ## Learn More & Enrol
-https://www.udemy.com/labs/4072/overview
+https://www.udemy.com/labs/identifying-weather-patterns-using-azure-ml-and-clustering
